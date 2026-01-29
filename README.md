@@ -39,13 +39,13 @@ It is useful for beginners learning JavaScript events and keyboard handling.
 
 
 
--Source-Code-of-Project-Key-Codes-Project/
--│
--├── index.html # Main HTML file
--├── style.css # Styling file
--├── script.js # JavaScript logic
--├── README.md # Project documentation
--└── .vscode/ # VS Code configuration (optional)
+- Source-Code-of-Project-Key-Codes-Project/
+- │
+- ├── index.html # Main HTML file
+- ├── style.css # Styling file
+- ├── script.js # JavaScript logic
+- ├── README.md # Project documentation
+- └── .vscode/ # VS Code configuration (optional)
 
 
 
